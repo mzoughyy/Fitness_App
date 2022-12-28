@@ -1,6 +1,9 @@
 # flutter_projet
 
-A new Flutter project.
+'Globo fitness' is a fitness app devloped with flutter that provides: 
+    - BMI calculator
+    - Training Marker
+    - Weather checker
 
 ## Getting Started
 
